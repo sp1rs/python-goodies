@@ -12,5 +12,4 @@ inside the case statement then it will execute all the case statement following 
 
 For long time python does not have any similar feature close to switch.
 So in python 3.10, the new feature was introduced called `match`.
-It is similar to the switch statement but not exactly same. 
-
+It is similar to the switch statement but not exactly same.
