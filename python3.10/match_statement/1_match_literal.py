@@ -1,4 +1,7 @@
-# Basic usage of switch. Matching against literal constant.
+# Basic usage of Match statement. 
+# Literal Pattern
+
+# PEP 634, PEP 635, PEP 636
 
 lang_prefix = 'P'
 
@@ -9,5 +12,3 @@ match lang_prefix:
         print('RUST')
     case 'J':
         print('JAVA')
-
-
